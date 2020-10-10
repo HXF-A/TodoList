@@ -1,0 +1,13 @@
+
+body{
+   background-image: url(../images/apple.jpg);
+   /* 背景图片固定位置 */
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-position: center center;
+   /* 背景铺盖整个视野 */
+   background-size: cover;
+   background-color: #B0C4DEff;
+   font-size: 14px 'microsoft yehei ';
+   font-weight: 300;
+}
